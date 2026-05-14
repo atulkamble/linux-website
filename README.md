@@ -1,7 +1,8 @@
+```
+git clone https://github.com/atulkamble/linux-website.git
+sudo mv linux-website /var/www/html
+```
 # RHEL & Ubuntu — Website Hosting Project
-
-Save as `apache-rhel.sh`
-
 ```bash
 sudo yum update -y
 sudo yum install httpd -y
