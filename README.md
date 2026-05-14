@@ -1,4 +1,4 @@
-# RHEL / Amazon Linux — Website Hosting
+# RHEL & Ubuntu — Website Hosting Project
 
 Save as `apache-rhel.sh`
 
