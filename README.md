@@ -1,4 +1,4 @@
-# RHEL / Amazon Linux — Full Website Hosting Script
+# RHEL / Amazon Linux — Website Hosting
 
 Save as `apache-rhel.sh`
 
